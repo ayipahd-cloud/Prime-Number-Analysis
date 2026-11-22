@@ -32,3 +32,6 @@ While building this project I learned:
 
 ## How to Run
 python PrimeNumberAnalysis.py
+
+## Author
+Created by _ayipahd-cloud_ as a personal Python learning project.
