@@ -18,6 +18,10 @@ A beginner Python application for checking prime numbers and generating prime nu
 2. Generate a list of prime numbers up to a certain number.
 3. Exit.
 
+## Screenshots of Ouput
+<img width="665" height="218" alt="Screenshot 2026-11-22 211623" src="https://github.com/user-attachments/assets/3e2779ed-094f-4f6c-816e-080cb520f4ac" />
+
+
 
 ## What I Learned
 While building this project I learned:
